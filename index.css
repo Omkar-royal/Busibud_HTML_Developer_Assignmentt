@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: transparent;
     color: #000000;
     padding: 20px;
     padding-bottom: 0px;
@@ -37,7 +37,7 @@ main {
     
     padding: 20px;
     padding-top: 0px;
-    background-color: #ffffff;
+    background-color: transparent;
     min-height: 500px;
     text-align: center;
 }
