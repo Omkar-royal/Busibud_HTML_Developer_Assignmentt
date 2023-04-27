@@ -233,7 +233,7 @@ opacity: 1;
     padding-left: 0px;
 	 background-color:aliceblue;
 	height:auto;
-	
+	 border-radius:10px;
     
 }
 #divv1{
@@ -242,7 +242,7 @@ opacity: 1;
     padding-left: 0px;
 	 background-color:aliceblue;
 	height:auto;
-    
+    border-radius:10px;
     
 }
 #divv2{
@@ -251,6 +251,7 @@ opacity: 1;
     padding-left: 0px;
 	 background-color:aliceblue;
 	height:auto;
+	 border-radius:10px;
   
 }
 #h67{
